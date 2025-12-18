@@ -4,6 +4,23 @@ A production-ready template for building mordern Avalonia desktop applications w
 
 ![AvaloniaAppKit demo screenshot](docs/screenshots/avalonia_template.png)
 
+## NuGet
+
+AvaloniaAppKit is published on NuGet:
+
+- `AvaloniaAppKit.Core`: https://www.nuget.org/packages/AvaloniaAppKit.Core
+- `AvaloniaAppKit.Controls`: https://www.nuget.org/packages/AvaloniaAppKit.Controls
+- `AvaloniaAppKit.AppShell`: https://www.nuget.org/packages/AvaloniaAppKit.AppShell
+- `AvaloniaAppKit.Import.Excel`: https://www.nuget.org/packages/AvaloniaAppKit.Import.Excel
+
+Install (example):
+
+```bash
+dotnet add package AvaloniaAppKit.Core
+dotnet add package AvaloniaAppKit.Controls
+dotnet add package AvaloniaAppKit.AppShell
+```
+
 ## Features
 
 - **Modern UI Framework**: Avalonia 11.3.8 with Fluent theme
