@@ -16,8 +16,8 @@
     <Authors>AvaloniaAppKit Contributors</Authors>
     <Company>AvaloniaAppKit</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/AvaloniaAppKit/AvaloniaAppKit</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/AvaloniaAppKit/AvaloniaAppKit</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Rajioba1/avalonia_template</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Rajioba1/avalonia_template</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>avalonia;template;datagrid;mvvm;desktop</PackageTags>
     <Copyright>Copyright (c) 2025 AvaloniaAppKit Contributors</Copyright>
