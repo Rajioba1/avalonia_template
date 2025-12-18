@@ -10,7 +10,7 @@ Get up and running with AvaloniaAppKit in minutes.
 ## Step 1: Clone the Template
 
 ```bash
-git clone https://github.com/yourusername/AvaloniaAppKit.git MyApp
+git clone https://github.com/Rajioba1/avalonia_template.git MyApp
 cd MyApp
 ```
 

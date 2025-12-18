@@ -1,6 +1,6 @@
 # AvaloniaAppKit
 
-A production-ready template for building Avalonia desktop applications with TreeDataGrid, navigation, debug console, and data import capabilities.
+A production-ready template for building mordern Avalonia desktop applications with TreeDataGrid, navigation, debug console, and data import features.
 
 ![AvaloniaAppKit demo screenshot](docs/screenshots/avalonia_template.png)
 
@@ -38,7 +38,7 @@ docs/                             # Documentation
 ### Clone and Build
 
 ```bash
-git clone https://github.com/yourusername/AvaloniaAppKit.git
+git clone https://github.com/Rajioba1/avalonia_template.git
 cd AvaloniaAppKit
 dotnet build
 ```
@@ -260,5 +260,5 @@ Contributions are welcome! Please read our contributing guidelines before submit
 
 ## Support
 
-- [GitHub Issues](https://github.com/yourusername/AvaloniaAppKit/issues)
-- [Discussions](https://github.com/yourusername/AvaloniaAppKit/discussions)
+- [GitHub Issues](https://github.com/Rajioba1/avalonia_template/issues)
+- [Discussions](https://github.com/Rajioba1/avalonia_template/discussions)
