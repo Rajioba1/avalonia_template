@@ -32,6 +32,18 @@ AvaloniaAppKit uses the following open-source libraries:
 - **Repository**: https://github.com/dotnet/runtime
 - **Copyright**: .NET Foundation
 
+## CsvHelper
+
+- **License**: Apache-2.0 OR MS-PL (dual-licensed)
+- **Repository**: https://github.com/JoshClose/CsvHelper
+- **Copyright**: Josh Close
+
+## DynamicData
+
+- **License**: MIT
+- **Repository**: https://github.com/reactivemarbles/DynamicData
+- **Copyright**: ReactiveUI Association Inc.
+
 ## ClosedXML (Import.Excel module)
 
 - **License**: MIT
