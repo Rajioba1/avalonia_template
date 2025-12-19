@@ -19,6 +19,7 @@ Install (example):
 dotnet add package AvaloniaTemplateBlueprint.Core
 dotnet add package AvaloniaTemplateBlueprint.Controls
 dotnet add package AvaloniaTemplateBlueprint.AppShell
+dotnet add package AvaloniaTemplateBlueprint.Import.Excel  
 ```
 
 ## Features
