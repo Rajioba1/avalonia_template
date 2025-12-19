@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>Core interfaces and services for AvaloniaTemplateBlueprint template.</Description>
+    <Description>Core interfaces and services for TemplateBlueprint.</Description>
     <PackageId>TemplateBlueprint.Core</PackageId>
   </PropertyGroup>
 

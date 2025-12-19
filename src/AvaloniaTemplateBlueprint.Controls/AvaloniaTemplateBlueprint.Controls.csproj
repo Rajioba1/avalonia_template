@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>TreeDataGrid extensions and behaviors for AvaloniaTemplateBlueprint template.</Description>
+    <Description>TreeDataGrid extensions and behaviors for TemplateBlueprint.</Description>
     <PackageId>TemplateBlueprint.Controls</PackageId>
   </PropertyGroup>
 

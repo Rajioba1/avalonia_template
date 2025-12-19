@@ -13,15 +13,15 @@
     <CommunityToolkitMvvmVersion>8.2.2</CommunityToolkitMvvmVersion>
 
     <!-- NuGet package metadata - UPDATE THESE FOR YOUR PROJECT -->
-    <Authors>AvaloniaTemplateBlueprint Contributors</Authors>
-    <Company>AvaloniaTemplateBlueprint</Company>
+    <Authors>TemplateBlueprint Contributors</Authors>
+    <Company>TemplateBlueprint</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/Rajioba1/avalonia_template</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Rajioba1/avalonia_template</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>avalonia;template;datagrid;mvvm;desktop</PackageTags>
-    <Copyright>Copyright (c) 2025 AvaloniaTemplateBlueprint Contributors</Copyright>
-    <Description>Production-ready Avalonia application template with TreeDataGrid, navigation, and debug console.</Description>
+    <PackageTags>template;datagrid;mvvm;desktop</PackageTags>
+    <Copyright>Copyright (c) 2025 TemplateBlueprint Contributors</Copyright>
+    <Description>Production-ready desktop application template with TreeDataGrid, navigation, and debug console.</Description>
 
     <!-- Package versioning -->
     <Version>1.0.0</Version>

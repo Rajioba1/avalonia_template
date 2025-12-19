@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>Application shell components: navigation, workspaces, debug console for AvaloniaTemplateBlueprint template.</Description>
+    <Description>Application shell components: navigation, workspaces, debug console for TemplateBlueprint.</Description>
     <PackageId>TemplateBlueprint.AppShell</PackageId>
   </PropertyGroup>
 

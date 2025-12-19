@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>Optional Excel import support for AvaloniaTemplateBlueprint template. Add this package only if you need .xlsx import.</Description>
+    <Description>Optional Excel import support for TemplateBlueprint. Add this package only if you need .xlsx import.</Description>
     <PackageId>TemplateBlueprint.Import.Excel</PackageId>
   </PropertyGroup>
 
