@@ -23,16 +23,14 @@ dotnet add package TemplateBlueprint.Import.Excel
 
 ```
 
-Publish Status
-
-All 4 packages published successfully:
+All 4 packages are published on Nuget:
 
 - TemplateBlueprint.Core 1.0.0
 - TemplateBlueprint.Controls 1.0.0
 - TemplateBlueprint.AppShell 1.0.0
 - TemplateBlueprint.Import.Excel 1.0.0
 
-Your packages will be live in a few minutes:
+Nuget link:
 
 - https://www.nuget.org/packages/TemplateBlueprint.Core
 - https://www.nuget.org/packages/TemplateBlueprint.Controls
